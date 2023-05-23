@@ -34,9 +34,6 @@ The following configuration options are available in the 'index.js' file:
 - `baseUrl`: The base URL of the animepahe.com website.
 - `url`: The URL to scrape anime information from.
 
-### License
-This project is licensed under the [MIT License](LICENSE).
-
 ### Acknowledgments
 - [Axios](https://axios-http.com/) - Promise-based HTTP client for Node.js
 - [Cheerio](https://cheerio.js.org/) - Fast, flexible, and lean implementation of core jQuery designed for the server
